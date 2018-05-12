@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883417456333",
+    "firebase_url": "https://pushnotif-69f93.firebaseio.com",
+    "project_id": "pushnotif-69f93",
+    "storage_bucket": "pushnotif-69f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883417456333:android:432f80cc8d0d1c02",
+        "android_client_info": {
+          "package_name": "com.example.pc.remotealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883417456333-ub2305jfsjt6ldbrgsojadqlhap9ut5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.remotealarm",
+            "certificate_hash": "7680c8c1a13da51321019092dbb8323322dd3a92"
+          }
+        },
+        {
+          "client_id": "883417456333-kdqu02hlaqms6bkg5e3th6po0725qk7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwz1ns5mAVfu1aOrF3pfVFvMxzxpf-8vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883417456333-kdqu02hlaqms6bkg5e3th6po0725qk7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
